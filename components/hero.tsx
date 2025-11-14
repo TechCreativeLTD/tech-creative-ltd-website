@@ -1,5 +1,3 @@
-import { Building2 } from 'lucide-react'
-
 export function Hero() {
   return (
     <section className="relative min-h-[90vh] flex flex-col items-center justify-center px-6 py-20 text-center">
