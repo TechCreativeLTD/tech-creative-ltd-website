@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[89225,["/_next/static/chunks/3217e485bcb4270d.js","/_next/static/chunks/f1e68980346fa22d.js"],"ViewportBoundary"]
+4:I[89225,["/_next/static/chunks/3217e485bcb4270d.js","/_next/static/chunks/f1e68980346fa22d.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[93038,["/_next/static/chunks/3217e485bcb4270d.js","/_next/static/chunks/f1e68980346fa22d.js"],"IconMark"]
+0:{"buildId":"ZXd5Z3gHlIgK1sr2j8YHO","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"TechCreative LTD - Innovative Technology Solutions"}],["$","meta","1",{"name":"description","content":"We blend technology and creativity to deliver cutting-edge digital solutions for your business."}],["$","link","2",{"rel":"icon","href":"/favicon.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L7","4",{}]]
